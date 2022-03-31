@@ -1,0 +1,19 @@
+###
+Create a virtual environment in cmd
+python -m venv virtual_environment_name
+
+###
+Activate the virtual environment
+cd virtual_environment_name/Scripts
+activate
+
+###
+Install ipykernel
+pip install ipykernel
+
+###
+Create kernel
+ipython kernel install --user --name=JupyterNotebookKernelName
+
+###
+Then open notebook and create New ipython file, but before that select the kernel/environment name (JupyterNotebookKernelName)
