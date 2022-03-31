@@ -1,5 +1,5 @@
 # House Price Prediction Using Regression Technique - Random Forest Classifier
-I participated in this [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) to acquire hands-on experience in data exploration, feature engineering, and regression techniques. Below is my description of the [source_code.ipynb](https://github.com/sajidsarkar/Kaggle-House_Price-Advanced_Regression/blob/master/source_code.ipynb)
+I participated in this [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) to acquire hands-on experience in data exploration, feature engineering, and regression techniques. <ins>**Root Mean Square Error was reduced down to 0.18063.**</ins> Below is my description of the [source_code.ipynb:](https://github.com/sajidsarkar/Kaggle-House_Price-Advanced_Regression/blob/master/source_code.ipynb)
 
 
 #### Importing necessary libraries
